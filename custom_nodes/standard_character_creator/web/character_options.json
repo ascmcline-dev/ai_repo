@@ -1,0 +1,127 @@
+{
+  "clothing_by_category": {
+    "Unspecified": [
+      "Unspecified"
+    ],
+    "Daily Outdoor": [
+      "Casual Jeans and Tee",
+      "Smart Casual",
+      "Athleisure",
+      "Workwear Casual",
+      "Streetwear",
+      "Summer Casual",
+      "Winter Casual",
+      "Outdoor Active",
+      "Business Casual",
+      "Date-Night Casual",
+      "Travel Outfit"
+    ],
+    "Indoor / At Home": [
+      "Simple Tee and Shorts",
+      "Tank Top and Lounge Shorts",
+      "Oversized Tee",
+      "House Dress",
+      "Leggings and Hoodie",
+      "Pajama Set",
+      "Robe over Basics",
+      "Sweater and Joggers",
+      "Barefoot Home Casual",
+      "Kitchen / Chore Outfit"
+    ],
+    "Loungewear": [
+      "Matching Lounge Set",
+      "Soft Knit Set",
+      "Crop Top and Joggers",
+      "Camisole and Shorts",
+      "Longline Bralette and Lounge Pants",
+      "Oversized Hoodie and Shorts",
+      "Thermal Set",
+      "Satin Pajamas",
+      "Cotton Pajamas",
+      "Relaxed Romper"
+    ],
+    "Intimate / After Dark": [
+      "Matching Lingerie Set",
+      "Lace Bra and Brief Set",
+      "Satin Bra and Brief Set",
+      "Bodysuit",
+      "Babydoll",
+      "Slip Dress",
+      "Corset-Inspired Set",
+      "Satin Robe",
+      "Sheer Robe over Lingerie",
+      "After-Dark Clubwear"
+    ],
+    "No Clothing / Tattoo Documentation": [
+      "Unclothed Tattoo Documentation",
+      "Unclothed Full-Body Character Reference",
+      "Unclothed Neutral Anatomy Reference"
+    ]
+  },
+  "piercing_types_by_location": {
+    "Unspecified": [
+      "Unspecified"
+    ],
+    "Ear / Ears": [
+      "Stud",
+      "Hoop",
+      "Huggie",
+      "Drop",
+      "Industrial Bar",
+      "Helix Ring",
+      "Tragus Stud",
+      "Multiple Ear Piercings"
+    ],
+    "Eyebrow": [
+      "Curved Barbell",
+      "Ring"
+    ],
+    "Nostril": [
+      "Stud",
+      "Hoop"
+    ],
+    "Septum": [
+      "Horseshoe Ring",
+      "Clicker Ring",
+      "Circular Barbell"
+    ],
+    "Lip": [
+      "Labret Stud",
+      "Ring",
+      "Monroe Stud",
+      "Medusa Stud",
+      "Snake Bites"
+    ],
+    "Tongue": [
+      "Straight Barbell"
+    ],
+    "Cheek": [
+      "Cheek Studs"
+    ],
+    "Navel": [
+      "Curved Barbell",
+      "Gemstone Barbell",
+      "Ring"
+    ],
+    "Nipple": [
+      "Straight Barbell",
+      "Ring",
+      "Shield"
+    ],
+    "Genital": [
+      "Ring",
+      "Curved Barbell",
+      "Straight Barbell"
+    ],
+    "Dermal / Surface": [
+      "Dermal Stud",
+      "Surface Bar"
+    ],
+    "Multiple Facial": [
+      "Mixed Facial Piercings"
+    ],
+    "Multiple Body": [
+      "Mixed Body Piercings"
+    ]
+  }
+}
