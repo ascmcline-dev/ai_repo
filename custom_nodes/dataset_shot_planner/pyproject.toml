@@ -1,0 +1,11 @@
+[project]
+name = "dataset-shot-planner"
+version = "1.7.0"
+description = "Dynamic ComfyUI dataset photography shot and prompt planner."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

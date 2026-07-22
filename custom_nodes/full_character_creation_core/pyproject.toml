@@ -1,0 +1,5 @@
+[project]
+name = "full-character-creation-core"
+version = "1.1.0"
+description = "Simplified character blueprint and shot planner nodes for ComfyUI"
+requires-python = ">=3.10"
